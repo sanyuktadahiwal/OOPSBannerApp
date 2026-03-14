@@ -1,4 +1,4 @@
-public class UC1 {
+public class UC1-PrintOOPS {
 	public static void main(String[] args){
 		System.out.println("OOPS");
 	}
